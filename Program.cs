@@ -14,6 +14,7 @@ namespace BuzzLock1._0
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new StartPage());
+            // no changes just adding a comment
         }
     }
 }
